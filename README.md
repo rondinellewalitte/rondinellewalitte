@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rondinelle Walitte 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://rondinellewalitte.com.br/)](https://rondinellewalitte.com.br)
+[![Blog](https://img.shields.io/website?label=Rondinellewalitte.com.br&style=for-the-badge&url=https://rondinellewalitte.com.br/)](https://rondinellewalitte.com.br)
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rondinellewalitte&show_icons=true&theme=dracula&count_private=true)
